@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="D:\Users\DanielBr\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_AbstractClass.2105869699.00" t="ExcludeRecursive" />
+    <e p="D:\Users\DanielBr\Documents\personal git repo\AbstractClass2" t="IncludeFlat">
+      <e p="AbstractClass" t="IncludeRecursive">
+        <e p="AbstractClass.csproj" t="IncludeRecursive" />
+        <e p="BaseClass.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DerivedClass.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="AbstractClass.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="AbstractClass.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
